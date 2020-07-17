@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello
 
-<!--
-**yeukfei02/yeukfei02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Donald Wu. I am a software developer.
 
-Here are some ideas to get you started:
+## Love to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- javascript
+
+- react
+
+- react native
+
+- node
+
+- deno
+
+- typescript
+
+- java
+
+- android
+
+- kotlin
+
+- go
+
+## Get in touch
+
+- email: [yeukfei02@gmail.com](yeukfei02@gmail.com)
+
+- twitter: [https://twitter.com/yeukfei02](https://twitter.com/yeukfei02)
