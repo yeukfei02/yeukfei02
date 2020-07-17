@@ -1,26 +1,12 @@
-# Hello
+## Hello
 
 Hi, my name is Donald Wu. I am a software developer.
 
 ## Love to use
 
-- javascript
+- javascript (react, react native, node, deno, typescript)
 
-- react
-
-- react native
-
-- node
-
-- deno
-
-- typescript
-
-- java
-
-- android
-
-- kotlin
+- java (android, kotlin)
 
 - go
 
