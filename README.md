@@ -10,6 +10,8 @@ Hi, my name is Wu Yeuk Fei, Donald. I am a software developer.
 
 - go
 
+- python
+
 ## Get in touch
 
 - email: [yeukfei02@gmail.com](yeukfei02@gmail.com)
