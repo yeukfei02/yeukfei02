@@ -22,6 +22,6 @@ Hi, my name is Wu Yeuk Fei, Donald. I am a software developer.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeukfei02&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeukfei02&theme=radical" />
