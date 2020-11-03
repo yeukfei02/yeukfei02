@@ -6,6 +6,8 @@ Hi, my name is Wu Yeuk Fei, Donald. I am a software developer.
 
 - javascript (react, react native, node, deno, typescript)
 
+- serverless
+
 - java (android, kotlin)
 
 - go
@@ -18,6 +20,8 @@ Hi, my name is Wu Yeuk Fei, Donald. I am a software developer.
 
 - twitter: [https://twitter.com/yeukfei02](https://twitter.com/yeukfei02)
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&theme=dracula" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeukfei02&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=react" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeukfei02&theme=react" />
