@@ -25,7 +25,6 @@
 ❗️ Closed issue #17 in yeukfei02/hk-stock-cli
 🎉 Merged PR #19 in yeukfei02/hk-stock-cli
 💪 Opened PR #19 in yeukfei02/hk-stock-cli
-🎉 Merged PR #18 in yeukfei02/hk-stock-cli
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +33,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 2:52:29 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 2:52:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
