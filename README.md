@@ -25,7 +25,6 @@
 🎉 Merged PR #12 in yeukfei02/deno-weather
 💪 Opened PR #12 in yeukfei02/deno-weather
 🎉 Merged PR #9 in yeukfei02/currencyFinder
-💪 Opened PR #9 in yeukfei02/currencyFinder
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +33,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 3:45:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 3:46:08 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
