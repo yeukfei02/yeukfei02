@@ -18,11 +18,11 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 1 commit to yeukfei02/yeukfei02
 ⬆️ Pushed 2 commits to yeukfei02/yeukfei02
 🎉 Merged PR #9 in yeukfei02/yeukfei02
 💪 Opened PR #9 in yeukfei02/yeukfei02
 ⬆️ Pushed 1 commit to yeukfei02/yeukfei02
-❗️ Opened issue #8 in yeukfei02/yeukfei02
 ```
 
 ---
@@ -31,4 +31,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeukfei02&theme=radical" />
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 12:52:45 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 12:53:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
