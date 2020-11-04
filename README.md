@@ -23,7 +23,6 @@
 🎉 Merged PR #15 in yeukfei02/favQuote-cli
 💪 Opened PR #15 in yeukfei02/favQuote-cli
 🎉 Merged PR #11 in yeukfei02/deno-weather
-💪 Opened PR #11 in yeukfei02/deno-weather
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -32,4 +31,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 2:37:46 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 2:38:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
