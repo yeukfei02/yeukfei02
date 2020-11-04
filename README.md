@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #11 in yeukfei02/deno-giphy-api
+💪 Opened PR #9 in yeukfei02/hk-stock-api
 🎉 Merged PR #10 in yeukfei02/deno-giphy-api
 💪 Opened PR #10 in yeukfei02/deno-giphy-api
 🎉 Merged PR #8 in yeukfei02/hk-stock-api
@@ -32,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 1:41:04 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 1:41:32 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
