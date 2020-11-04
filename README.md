@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #11 in yeukfei02/deno-weather
 💪 Opened PR #11 in yeukfei02/deno-weather
 🎉 Merged PR #13 in yeukfei02/deno-pixabay
 💪 Opened PR #13 in yeukfei02/deno-pixabay
@@ -25,7 +26,6 @@
 💪 Opened PR #11 in yeukfei02/deno-pixabay
 🎉 Merged PR #10 in yeukfei02/deno-pixabay
 💪 Opened PR #10 in yeukfei02/deno-pixabay
-🎉 Merged PR #8 in yeukfei02/currencyFinder
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 2:03:54 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 2:04:18 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
