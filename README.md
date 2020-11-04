@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #8 in yeukfei02/hk-stock-api
 💪 Opened PR #8 in yeukfei02/hk-stock-api
 🎉 Merged PR #7 in yeukfei02/hk-stock-api
 💪 Opened PR #7 in yeukfei02/hk-stock-api
@@ -32,4 +33,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 1:31:22 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 1:31:55 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
