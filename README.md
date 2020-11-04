@@ -23,7 +23,6 @@
 ❗️ Closed issue #8 in yeukfei02/yeukfei02
 🎉 Merged PR #11 in yeukfei02/yeukfei02
 💪 Opened PR #11 in yeukfei02/yeukfei02
-🎉 Merged PR #10 in yeukfei02/yeukfei02
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -32,4 +31,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 1:29:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 1:30:08 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
