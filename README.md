@@ -16,7 +16,7 @@
 ### 🗣 My activity:
 
 ```
-
+📦 Released "v1.2.3" in yeukfei02/hacker-news-node-ts-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -25,4 +25,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:52:29 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:52:49 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
