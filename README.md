@@ -16,16 +16,8 @@
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #11 in yeukfei02/yeukfei02
-💪 Opened PR #11 in yeukfei02/yeukfei02
-🎉 Merged PR #10 in yeukfei02/yeukfei02
-💪 Opened PR #10 in yeukfei02/yeukfei02
-🎉 Merged PR #9 in yeukfei02/yeukfei02
-💪 Opened PR #9 in yeukfei02/yeukfei02
-❗️ Opened issue #8 in yeukfei02/yeukfei02
-❗️ Opened issue #17 in yeukfei02/hk-stock-cli
-❗️ Opened issue #14 in yeukfei02/favQuote-cli
-❗️ Opened issue #10 in yeukfei02/deno-weather
+🎉 Merged PR #12 in yeukfei02/yeukfei02
+💪 Opened PR #12 in yeukfei02/yeukfei02
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +26,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 4th 2020, 1:00:17 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:17:59 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
