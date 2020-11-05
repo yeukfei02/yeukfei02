@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.4.0" in yeukfei02/dogApi
 📦 Released "v0.3.0" in yeukfei02/deno-giphy
 📦 Released "v0.1.2" in yeukfei02/deno-serverless
 📦 Released "v1.2.2" in yeukfei02/flowerShopApi
@@ -33,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:56:11 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:56:30 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
