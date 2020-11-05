@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.2.2" in yeukfei02/weatherApi
 📦 Released "v1.1.2" in yeukfei02/todolistApi
 📦 Released "v1.2.1" in yeukfei02/yeukfei02.github.io
 📦 Released "v0.1.4" in yeukfei02/node-typescript-graphql-playground
@@ -29,4 +30,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:54:38 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:54:55 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
