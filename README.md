@@ -16,7 +16,8 @@
 ### 🗣 My activity:
 
 ```
-
+🎉 Merged PR #15 in yeukfei02/deno-weather
+💪 Opened PR #15 in yeukfei02/deno-weather
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -25,4 +26,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:07:17 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:07:41 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
