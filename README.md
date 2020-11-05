@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.2.1" in yeukfei02/yeukfei02.github.io
 📦 Released "v0.1.4" in yeukfei02/node-typescript-graphql-playground
 📦 Released "v1.2.4" in yeukfei02/imageSearchApi
 📦 Released "v1.2.3" in yeukfei02/hacker-news-node-ts-serverless
@@ -27,4 +28,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:53:44 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:54:01 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
