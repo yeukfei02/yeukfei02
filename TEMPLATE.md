@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me:
 
-- email: [yeukfei02@gmail.com](yeukfei02@gmail.com)
+- Email: [yeukfei02@gmail.com](yeukfei02@gmail.com)
 - Twitter: [@yeukfei02](https://twitter.com/yeukfei02)
 
 ### 🗄 My projects:
