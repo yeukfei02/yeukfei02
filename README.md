@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.2.4" in yeukfei02/imageSearchApi
 📦 Released "v1.2.3" in yeukfei02/hacker-news-node-ts-serverless
 ```
 
@@ -25,4 +26,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:52:49 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:53:08 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
