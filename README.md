@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.8" in yeukfei02/deno-pixabay
 📦 Released "v0.1.5" in yeukfei02/currencyFinder
 📦 Released "v0.1.8" in yeukfei02/favQuote-cli
 📦 Released "v0.2.0" in yeukfei02/hk-stock-cli
@@ -28,4 +29,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:04:19 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:04:39 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
