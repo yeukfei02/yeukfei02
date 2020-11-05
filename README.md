@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me:
 
-- email: [yeukfei02@gmail.com](yeukfei02@gmail.com)
+- Email: [yeukfei02@gmail.com](yeukfei02@gmail.com)
 - Twitter: [@yeukfei02](https://twitter.com/yeukfei02)
 
 ### 🗄 My projects:
@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #14 in yeukfei02/yeukfei02
 💪 Opened PR #14 in yeukfei02/yeukfei02
 🎉 Merged PR #13 in yeukfei02/yeukfei02
 💪 Opened PR #13 in yeukfei02/yeukfei02
@@ -27,4 +28,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 2:22:38 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 2:23:10 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
