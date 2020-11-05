@@ -25,7 +25,6 @@
 ❗️ Closed issue #14 in yeukfei02/deno-giphy-api
 📦 Released "v0.1.8" in yeukfei02/deno-giphy-api
 🎉 Merged PR #15 in yeukfei02/deno-giphy-api
-💪 Opened PR #15 in yeukfei02/deno-giphy-api
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +33,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:57:43 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:58:02 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
