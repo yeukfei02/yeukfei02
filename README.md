@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #18 in yeukfei02/favQuote-cli
+💪 Opened PR #18 in yeukfei02/favQuote-cli
 ❗️ Closed issue #21 in yeukfei02/hk-stock-cli
 📦 Released "v0.2.1" in yeukfei02/hk-stock-cli
 🎉 Merged PR #22 in yeukfei02/hk-stock-cli
@@ -32,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:15:51 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:16:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
