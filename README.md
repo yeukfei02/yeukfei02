@@ -20,7 +20,6 @@
 ❗️ Opened issue #14 in yeukfei02/deno-giphy-api
 ❗️ Opened issue #15 in yeukfei02/deno-pixabay
 ❗️ Opened issue #10 in yeukfei02/currencyFinder
-❗️ Opened issue #17 in yeukfei02/favQuote-cli
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -29,4 +28,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:44:45 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:45:03 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
