@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #17 in yeukfei02/favQuote-cli
+📦 Released "v0.1.9" in yeukfei02/favQuote-cli
 🎉 Merged PR #18 in yeukfei02/favQuote-cli
 💪 Opened PR #18 in yeukfei02/favQuote-cli
 ❗️ Closed issue #21 in yeukfei02/hk-stock-cli
@@ -24,8 +26,6 @@
 💪 Opened PR #22 in yeukfei02/hk-stock-cli
 ❗️ Closed issue #14 in yeukfei02/deno-weather
 📦 Released "v0.1.9" in yeukfei02/deno-weather
-🎉 Merged PR #15 in yeukfei02/deno-weather
-💪 Opened PR #15 in yeukfei02/deno-weather
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:16:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 12:16:56 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
