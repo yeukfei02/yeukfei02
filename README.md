@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.2.2" in yeukfei02/stolenBike
 📦 Released "v1.1.2" in yeukfei02/flowerShopUi
 📦 Released "v1.1.2" in yeukfei02/videoCanvas
 📦 Released "v1.1.3" in yeukfei02/evercareFrontendTest
@@ -25,7 +26,6 @@
 📦 Released "v0.3.0" in yeukfei02/deno-giphy
 📦 Released "v0.1.2" in yeukfei02/deno-serverless
 📦 Released "v1.2.2" in yeukfei02/flowerShopApi
-📦 Released "v1.2.2" in yeukfei02/weatherApi
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:58:55 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:59:13 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
