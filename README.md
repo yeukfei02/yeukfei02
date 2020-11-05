@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.2.3" in yeukfei02/random-joke-slack-serverless
 📦 Released "v0.4.0" in yeukfei02/dogApi
 📦 Released "v0.3.0" in yeukfei02/deno-giphy
 📦 Released "v0.1.2" in yeukfei02/deno-serverless
@@ -25,7 +26,6 @@
 📦 Released "v1.2.1" in yeukfei02/yeukfei02.github.io
 📦 Released "v0.1.4" in yeukfei02/node-typescript-graphql-playground
 📦 Released "v1.2.4" in yeukfei02/imageSearchApi
-📦 Released "v1.2.3" in yeukfei02/hacker-news-node-ts-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:56:47 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 6:57:04 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
