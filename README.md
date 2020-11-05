@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.9.1" in yeukfei02/lunchPickerApi
 📦 Released "v0.1.6" in yeukfei02/hk-stock-api
 📦 Released "v0.1.7" in yeukfei02/deno-giphy-api
 📦 Released "v0.1.8" in yeukfei02/deno-pixabay
@@ -31,4 +32,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:08:14 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:08:39 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
