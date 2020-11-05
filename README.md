@@ -24,7 +24,6 @@
 ❗️ Opened issue #21 in yeukfei02/hk-stock-cli
 ❗️ Opened issue #14 in yeukfei02/deno-weather
 📦 Released "v1.1.1" in yeukfei02/lunchPickerBot
-📦 Released "v1.2.7" in yeukfei02/lunchPickerAndroid
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -33,4 +32,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:41:14 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 5th 2020, 4:41:34 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
