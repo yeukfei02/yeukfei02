@@ -20,11 +20,11 @@ jobs:
     - name: Generate README.md
       uses: actions-js/profile-readme@master
       with:
-        github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         username: yeukfei02
         template: "TEMPLATE.md"
       
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
-        github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
