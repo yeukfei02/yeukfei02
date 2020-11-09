@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v0.1.3" in yeukfei02/singapore-bus-arrival
-❗️ Opened issue #1 in yeukfei02/singapore-bus-arrival-app
-🎉 Merged PR #6 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #6 in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #5 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #5 in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #4 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #4 in yeukfei02/singapore-bus-arrival
-❗️ Closed issue #1 in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #2 in yeukfei02/singapore-bus-arrival
+📦 Released "v0.1.4" in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #9 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #9 in yeukfei02/singapore-bus-arrival-app
+📦 Released "v0.1.4" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #7 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #7 in yeukfei02/singapore-bus-arrival
+📦 Released "v0.1.2" in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #15 in yeukfei02/calendarReactNative
+💪 Opened PR #15 in yeukfei02/calendarReactNative
+🎉 Merged PR #8 in yeukfei02/singapore-bus-arrival-app
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, November 8th 2020, 12:04:01 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, November 9th 2020, 12:08:01 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
