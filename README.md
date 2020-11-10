@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.7" in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #12 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #12 in yeukfei02/singapore-bus-arrival-app
+📦 Released "v0.1.6" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #9 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #9 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #11 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #11 in yeukfei02/singapore-bus-arrival-app
 🗣 Commented on #76 in DianaIonita/serverless-api-gateway-caching
-📦 Released "v0.1.5" in yeukfei02/singapore-bus-arrival-app
-🎉 Merged PR #10 in yeukfei02/singapore-bus-arrival-app
-💪 Opened PR #10 in yeukfei02/singapore-bus-arrival-app
-📦 Released "v0.1.5" in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #8 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #8 in yeukfei02/singapore-bus-arrival
-📦 Released "v0.1.4" in yeukfei02/singapore-bus-arrival-app
-🎉 Merged PR #9 in yeukfei02/singapore-bus-arrival-app
-💪 Opened PR #9 in yeukfei02/singapore-bus-arrival-app
+🗣 Commented on #76 in DianaIonita/serverless-api-gateway-caching
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, November 9th 2020, 12:04:16 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, November 10th 2020, 12:08:07 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
