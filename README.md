@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.7" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #10 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #10 in yeukfei02/singapore-bus-arrival
 📦 Released "v0.1.8" in yeukfei02/node-typescript-graphql-playground
 🎉 Merged PR #17 in yeukfei02/node-typescript-graphql-playground
 💪 Opened PR #17 in yeukfei02/node-typescript-graphql-playground
@@ -23,9 +26,6 @@
 🎉 Merged PR #16 in yeukfei02/node-typescript-graphql-playground
 💪 Opened PR #16 in yeukfei02/node-typescript-graphql-playground
 📦 Released "v0.1.6" in yeukfei02/node-typescript-graphql-playground
-🎉 Merged PR #15 in yeukfei02/node-typescript-graphql-playground
-💪 Opened PR #15 in yeukfei02/node-typescript-graphql-playground
-🎉 Merged PR #14 in yeukfei02/node-typescript-graphql-playground
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, November 10th 2020, 12:03:30 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, November 11th 2020, 12:05:59 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
