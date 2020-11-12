@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.3.0" in yeukfei02/yeukfei02.github.io
+🎉 Merged PR #22 in yeukfei02/yeukfei02.github.io
+💪 Opened PR #22 in yeukfei02/yeukfei02.github.io
+📦 Released "v0.1.9" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #12 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #12 in yeukfei02/singapore-bus-arrival
+📦 Released "v1.2.5" in yeukfei02/hacker-news-node-ts-serverless
+🎉 Merged PR #12 in yeukfei02/hacker-news-node-ts-serverless
+💪 Opened PR #12 in yeukfei02/hacker-news-node-ts-serverless
 📦 Released "v1.2.4" in yeukfei02/hacker-news-node-ts-serverless
-🎉 Merged PR #11 in yeukfei02/hacker-news-node-ts-serverless
-💪 Opened PR #11 in yeukfei02/hacker-news-node-ts-serverless
-📦 Released "v0.1.8" in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #11 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #11 in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #15 in yeukfei02/singapore-bus-arrival-app
-💪 Opened PR #15 in yeukfei02/singapore-bus-arrival-app
-📦 Released "v0.1.9" in yeukfei02/singapore-bus-arrival-app
-🎉 Merged PR #14 in yeukfei02/singapore-bus-arrival-app
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, November 11th 2020, 12:03:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 12th 2020, 12:07:10 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
