@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.14" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #18 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #18 in yeukfei02/singapore-bus-arrival
 📦 Released "v0.1.13" in yeukfei02/singapore-bus-arrival
 🎉 Merged PR #17 in yeukfei02/singapore-bus-arrival
 💪 Opened PR #17 in yeukfei02/singapore-bus-arrival
@@ -23,9 +26,6 @@
 🎉 Merged PR #16 in yeukfei02/singapore-bus-arrival
 💪 Opened PR #16 in yeukfei02/singapore-bus-arrival
 📦 Released "v0.1.11" in yeukfei02/singapore-bus-arrival
-📦 Released "v0.1.12" in yeukfei02/singapore-bus-arrival-app
-🎉 Merged PR #20 in yeukfei02/singapore-bus-arrival-app
-💪 Opened PR #20 in yeukfei02/singapore-bus-arrival-app
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, November 16th 2020, 12:03:51 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, November 17th 2020, 12:07:44 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
