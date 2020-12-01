@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.2" in yeukfei02/placeAttractionsApi
+🎉 Merged PR #5 in yeukfei02/placeAttractionsApi
+💪 Opened PR #5 in yeukfei02/placeAttractionsApi
 🗣 Commented on #4 in aws-samples/amazon-ivs-player-web-sample
 📦 Released "v0.1.1" in yeukfei02/placeAttractionsApi
 🎉 Merged PR #4 in yeukfei02/placeAttractionsApi
@@ -23,9 +26,6 @@
 ❗️ Closed issue #1 in yeukfei02/placeAttractionsApi
 🎉 Merged PR #2 in yeukfei02/placeAttractionsApi
 💪 Opened PR #2 in yeukfei02/placeAttractionsApi
-🎉 Merged PR #26 in yeukfei02/WannaChat
-💪 Opened PR #26 in yeukfei02/WannaChat
-📦 Released "v1.1.3" in yeukfei02/WannaChat
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, December 1st 2020, 12:09:42 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, December 1st 2020, 12:04:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
