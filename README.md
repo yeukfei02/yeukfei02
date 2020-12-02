@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #17 in yeukfei02/hacker-news-node-ts-serverless
+🎉 Merged PR #21 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #17 in yeukfei02/hacker-news-node-ts-serverless
+💪 Opened PR #21 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #10 in yeukfei02/node-firestore-graphql-playground
+🎉 Merged PR #22 in yeukfei02/node-typescript-graphql-playground
+💪 Opened PR #10 in yeukfei02/node-firestore-graphql-playground
+💪 Opened PR #22 in yeukfei02/node-typescript-graphql-playground
 📦 Released "v0.1.2" in yeukfei02/placeAttractionsApi
 🎉 Merged PR #5 in yeukfei02/placeAttractionsApi
-💪 Opened PR #5 in yeukfei02/placeAttractionsApi
-🗣 Commented on #4 in aws-samples/amazon-ivs-player-web-sample
-📦 Released "v0.1.1" in yeukfei02/placeAttractionsApi
-🎉 Merged PR #4 in yeukfei02/placeAttractionsApi
-💪 Opened PR #4 in yeukfei02/placeAttractionsApi
-❗️ Closed issue #1 in yeukfei02/placeAttractionsApi
-🎉 Merged PR #2 in yeukfei02/placeAttractionsApi
-💪 Opened PR #2 in yeukfei02/placeAttractionsApi
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, December 1st 2020, 12:04:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, December 2nd 2020, 12:09:07 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
