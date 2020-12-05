@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.14" in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #23 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #23 in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #22 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #22 in yeukfei02/singapore-bus-arrival-app
 🎉 Merged PR #84 in yeukfei02/lunchPickerAndroid
 💪 Opened PR #84 in yeukfei02/lunchPickerAndroid
 🎉 Merged PR #17 in yeukfei02/hacker-news-node-ts-serverless
 🎉 Merged PR #21 in yeukfei02/singapore-bus-arrival
 💪 Opened PR #17 in yeukfei02/hacker-news-node-ts-serverless
-💪 Opened PR #21 in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #10 in yeukfei02/node-firestore-graphql-playground
-🎉 Merged PR #22 in yeukfei02/node-typescript-graphql-playground
-💪 Opened PR #10 in yeukfei02/node-firestore-graphql-playground
-💪 Opened PR #22 in yeukfei02/node-typescript-graphql-playground
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, December 5th 2020, 12:09:16 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, December 5th 2020, 12:04:33 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
