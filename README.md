@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #22 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #22 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #18 in yeukfei02/hacker-news-node-ts-serverless
+💪 Opened PR #18 in yeukfei02/hacker-news-node-ts-serverless
 📦 Released "v0.1.14" in yeukfei02/singapore-bus-arrival-app
 🎉 Merged PR #23 in yeukfei02/singapore-bus-arrival-app
 💪 Opened PR #23 in yeukfei02/singapore-bus-arrival-app
 🎉 Merged PR #22 in yeukfei02/singapore-bus-arrival-app
 💪 Opened PR #22 in yeukfei02/singapore-bus-arrival-app
 🎉 Merged PR #84 in yeukfei02/lunchPickerAndroid
-💪 Opened PR #84 in yeukfei02/lunchPickerAndroid
-🎉 Merged PR #17 in yeukfei02/hacker-news-node-ts-serverless
-🎉 Merged PR #21 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #17 in yeukfei02/hacker-news-node-ts-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, December 7th 2020, 12:09:42 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, December 7th 2020, 12:05:00 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
