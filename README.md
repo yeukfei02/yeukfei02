@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #24 in yeukfei02/singapore-bus-arrival-app
 🎉 Merged PR #22 in yeukfei02/singapore-bus-arrival
 💪 Opened PR #22 in yeukfei02/singapore-bus-arrival
 🎉 Merged PR #18 in yeukfei02/hacker-news-node-ts-serverless
@@ -25,7 +26,6 @@
 💪 Opened PR #23 in yeukfei02/singapore-bus-arrival-app
 🎉 Merged PR #22 in yeukfei02/singapore-bus-arrival-app
 💪 Opened PR #22 in yeukfei02/singapore-bus-arrival-app
-🎉 Merged PR #84 in yeukfei02/lunchPickerAndroid
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, December 8th 2020, 12:09:35 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, December 8th 2020, 12:06:36 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
