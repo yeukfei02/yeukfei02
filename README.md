@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.1.1" in yeukfei02/svelte-member-playground
+🎉 Merged PR #4 in yeukfei02/svelte-member-playground
+💪 Opened PR #4 in yeukfei02/svelte-member-playground
+📦 Released "v0.1.16" in yeukfei02/singapore-bus-arrival-app
+❗️ Closed issue #26 in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #27 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #27 in yeukfei02/singapore-bus-arrival-app
+❗️ Opened issue #26 in yeukfei02/singapore-bus-arrival-app
 📦 Released "v1.1.0" in yeukfei02/svelte-member-playground
 ❗️ Closed issue #1 in yeukfei02/svelte-member-playground
-🎉 Merged PR #2 in yeukfei02/svelte-member-playground
-💪 Opened PR #2 in yeukfei02/svelte-member-playground
-❗️ Opened issue #1 in yeukfei02/svelte-member-playground
-📦 Released "v1.9.4" in yeukfei02/lunchPickerApi
-🎉 Merged PR #165 in yeukfei02/lunchPickerApi
-💪 Opened PR #165 in yeukfei02/lunchPickerApi
-📦 Released "v1.9.3" in yeukfei02/lunchPickerApi
-🎉 Merged PR #164 in yeukfei02/lunchPickerApi
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, December 10th 2020, 12:09:42 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, December 10th 2020, 12:05:11 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
