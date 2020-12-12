@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v0.1.3" in yeukfei02/singapore-bus-arrival-web
-🎉 Merged PR #6 in yeukfei02/singapore-bus-arrival-web
-💪 Opened PR #6 in yeukfei02/singapore-bus-arrival-web
-📦 Released "v0.1.2" in yeukfei02/singapore-bus-arrival-web
-🎉 Merged PR #5 in yeukfei02/singapore-bus-arrival-web
-💪 Opened PR #5 in yeukfei02/singapore-bus-arrival-web
-📦 Released "v0.1.1" in yeukfei02/singapore-bus-arrival-web
-🎉 Merged PR #4 in yeukfei02/singapore-bus-arrival-web
-💪 Opened PR #4 in yeukfei02/singapore-bus-arrival-web
-❗️ Closed issue #1 in yeukfei02/singapore-bus-arrival-web
+📦 Released "v1.1.2" in yeukfei02/lunchPickerBot
+🎉 Merged PR #33 in yeukfei02/lunchPickerBot
+💪 Opened PR #33 in yeukfei02/lunchPickerBot
+📦 Released "v0.1.17" in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #28 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #28 in yeukfei02/singapore-bus-arrival-app
+📦 Released "v1.5.6" in yeukfei02/lunchPickerReactNative
+🎉 Merged PR #100 in yeukfei02/lunchPickerReactNative
+💪 Opened PR #100 in yeukfei02/lunchPickerReactNative
+🗣 Commented on #249 in n4kz/react-native-material-dropdown
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, December 12th 2020, 12:09:43 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, December 12th 2020, 12:04:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
