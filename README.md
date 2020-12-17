@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.1.3" in yeukfei02/starWarsUniverse
+🎉 Merged PR #18 in yeukfei02/starWarsUniverse
+💪 Opened PR #18 in yeukfei02/starWarsUniverse
 📦 Released "v1.5.9" in yeukfei02/lunchPickerReactNative
 🎉 Merged PR #103 in yeukfei02/lunchPickerReactNative
 💪 Opened PR #103 in yeukfei02/lunchPickerReactNative
@@ -23,9 +26,6 @@
 🎉 Merged PR #102 in yeukfei02/lunchPickerReactNative
 💪 Opened PR #102 in yeukfei02/lunchPickerReactNative
 🎉 Merged PR #24 in yeukfei02/hacker-news-node-ts-serverless
-💪 Opened PR #24 in yeukfei02/hacker-news-node-ts-serverless
-📦 Released "v1.1.1" in yeukfei02/hacker-news-web
-🎉 Merged PR #4 in yeukfei02/hacker-news-web
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, December 17th 2020, 12:11:39 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, December 17th 2020, 12:05:35 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
