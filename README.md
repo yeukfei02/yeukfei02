@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #4 in yeukfei02/trello-clone
+💪 Opened PR #4 in yeukfei02/trello-clone
 📦 Released "v1.6.1" in yeukfei02/lunchPickerReactNative
 ❗️ Closed issue #104 in yeukfei02/lunchPickerReactNative
 🎉 Merged PR #105 in yeukfei02/lunchPickerReactNative
@@ -24,8 +26,6 @@
 ❗️ Opened issue #104 in yeukfei02/lunchPickerReactNative
 📦 Released "v1.1.3" in yeukfei02/starWarsUniverse
 🎉 Merged PR #18 in yeukfei02/starWarsUniverse
-💪 Opened PR #18 in yeukfei02/starWarsUniverse
-📦 Released "v1.5.9" in yeukfei02/lunchPickerReactNative
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, December 21st 2020, 12:05:48 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, December 22nd 2020, 12:14:52 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
