@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #3 in yeukfei02/trello-clone-api
+💪 Opened PR #3 in yeukfei02/trello-clone-api
+🎉 Merged PR #1 in yeukfei02/trello-clone-api
+🎉 Merged PR #6 in yeukfei02/trello-clone
+💪 Opened PR #1 in yeukfei02/trello-clone-api
+💪 Opened PR #6 in yeukfei02/trello-clone
 🎉 Merged PR #5 in yeukfei02/trello-clone
 💪 Opened PR #5 in yeukfei02/trello-clone
 🎉 Merged PR #170 in yeukfei02/lunchPickerApi
 🎉 Merged PR #4 in yeukfei02/trello-clone
-💪 Opened PR #4 in yeukfei02/trello-clone
-📦 Released "v1.6.1" in yeukfei02/lunchPickerReactNative
-❗️ Closed issue #104 in yeukfei02/lunchPickerReactNative
-🎉 Merged PR #105 in yeukfei02/lunchPickerReactNative
-💪 Opened PR #105 in yeukfei02/lunchPickerReactNative
-🗣 Commented on #104 in yeukfei02/lunchPickerReactNative
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, December 24th 2020, 12:07:41 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, December 25th 2020, 12:16:56 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
