@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.6.2" in yeukfei02/lunchPickerReactNative
+🎉 Merged PR #106 in yeukfei02/lunchPickerReactNative
+💪 Opened PR #106 in yeukfei02/lunchPickerReactNative
 🎉 Merged PR #23 in yeukfei02/yeukfei02.github.io
 📦 Released "v1.3.1" in yeukfei02/yeukfei02.github.io
 🎉 Merged PR #24 in yeukfei02/yeukfei02.github.io
@@ -23,9 +26,6 @@
 📦 Released "v0.1.8" in yeukfei02/singapore-bus-arrival-web
 📦 Released "v1.2.0" in yeukfei02/hacker-news-web
 🎉 Merged PR #11 in yeukfei02/singapore-bus-arrival-web
-🎉 Merged PR #5 in yeukfei02/hacker-news-web
-💪 Opened PR #11 in yeukfei02/singapore-bus-arrival-web
-💪 Opened PR #5 in yeukfei02/hacker-news-web
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, December 28th 2020, 12:05:52 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, December 29th 2020, 12:18:03 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
