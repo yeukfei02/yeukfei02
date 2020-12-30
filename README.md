@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #125 in prisma-labs/serverless-plugin-typescript
+🗣 Commented on #125 in prisma-labs/serverless-plugin-typescript
 📦 Released "v1.6.2" in yeukfei02/lunchPickerReactNative
 🎉 Merged PR #106 in yeukfei02/lunchPickerReactNative
 💪 Opened PR #106 in yeukfei02/lunchPickerReactNative
@@ -24,8 +26,6 @@
 🎉 Merged PR #24 in yeukfei02/yeukfei02.github.io
 💪 Opened PR #24 in yeukfei02/yeukfei02.github.io
 📦 Released "v0.1.8" in yeukfei02/singapore-bus-arrival-web
-📦 Released "v1.2.0" in yeukfei02/hacker-news-web
-🎉 Merged PR #11 in yeukfei02/singapore-bus-arrival-web
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, December 30th 2020, 12:19:27 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, December 30th 2020, 12:06:19 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
