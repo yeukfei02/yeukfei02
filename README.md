@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #4 in yeukfei02/donaldwu-resume
-💪 Opened PR #4 in yeukfei02/donaldwu-resume
-🎉 Merged PR #3 in yeukfei02/donaldwu-resume
-💪 Opened PR #3 in yeukfei02/donaldwu-resume
-🎉 Merged PR #2 in yeukfei02/donaldwu-resume
-💪 Opened PR #2 in yeukfei02/donaldwu-resume
-🎉 Merged PR #1 in yeukfei02/donaldwu-resume
-💪 Opened PR #1 in yeukfei02/donaldwu-resume
-🗣 Commented on #125 in prisma-labs/serverless-plugin-typescript
-🗣 Commented on #125 in prisma-labs/serverless-plugin-typescript
+📦 Released "v1.0.1" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #12 in yeukfei02/deno-serverless
+💪 Opened PR #12 in yeukfei02/deno-serverless
+📦 Released "v1.6.0" in yeukfei02/hacker-news-node-ts-serverless
+📦 Released "v0.1.20" in yeukfei02/singapore-bus-arrival
+📦 Released "v0.1.7" in yeukfei02/deno-serverless
+🎉 Merged PR #11 in yeukfei02/deno-serverless
+💪 Opened PR #11 in yeukfei02/deno-serverless
+🎉 Merged PR #26 in yeukfei02/hacker-news-node-ts-serverless
+🎉 Merged PR #27 in yeukfei02/singapore-bus-arrival
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, January 6th 2021, 12:22:19 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, January 6th 2021, 12:08:33 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
