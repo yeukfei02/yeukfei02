@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v1.0.1" in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #12 in yeukfei02/deno-serverless
-💪 Opened PR #12 in yeukfei02/deno-serverless
-📦 Released "v1.6.0" in yeukfei02/hacker-news-node-ts-serverless
-📦 Released "v0.1.20" in yeukfei02/singapore-bus-arrival
-📦 Released "v0.1.7" in yeukfei02/deno-serverless
-🎉 Merged PR #11 in yeukfei02/deno-serverless
-💪 Opened PR #11 in yeukfei02/deno-serverless
-🎉 Merged PR #26 in yeukfei02/hacker-news-node-ts-serverless
-🎉 Merged PR #27 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #16 in yeukfei02/deno-serverless
+🎉 Merged PR #13 in yeukfei02/trello-clone-api
+🎉 Merged PR #31 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #30 in yeukfei02/hacker-news-node-ts-serverless
+🎉 Merged PR #21 in yeukfei02/random-joke-slack-serverless
+💪 Opened PR #16 in yeukfei02/deno-serverless
+💪 Opened PR #13 in yeukfei02/trello-clone-api
+💪 Opened PR #31 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #30 in yeukfei02/hacker-news-node-ts-serverless
+💪 Opened PR #21 in yeukfei02/random-joke-slack-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, January 7th 2021, 12:09:19 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, January 8th 2021, 12:25:08 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
