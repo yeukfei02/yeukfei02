@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #1 in yeukfei02/video-edit
+💪 Opened PR #1 in yeukfei02/video-edit
 ❗️ Opened issue #11 in yeukfei02/trello-clone
 🎉 Merged PR #16 in yeukfei02/deno-serverless
 🎉 Merged PR #13 in yeukfei02/trello-clone-api
@@ -24,8 +26,6 @@
 🎉 Merged PR #21 in yeukfei02/random-joke-slack-serverless
 💪 Opened PR #16 in yeukfei02/deno-serverless
 💪 Opened PR #13 in yeukfei02/trello-clone-api
-💪 Opened PR #31 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #30 in yeukfei02/hacker-news-node-ts-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, January 13th 2021, 12:23:56 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, January 14th 2021, 12:42:51 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
