@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #2 in yeukfei02/minecraft-clone
+💪 Opened PR #2 in yeukfei02/minecraft-clone
+🎉 Merged PR #1 in yeukfei02/minecraft-clone
+💪 Opened PR #1 in yeukfei02/minecraft-clone
 🎉 Merged PR #12 in yeukfei02/trello-clone
 💪 Opened PR #12 in yeukfei02/trello-clone
 🎉 Merged PR #5 in yeukfei02/video-edit
 💪 Opened PR #5 in yeukfei02/video-edit
 🎉 Merged PR #4 in yeukfei02/video-edit
 💪 Opened PR #4 in yeukfei02/video-edit
-❌ Closed PR #3 in yeukfei02/video-edit
-💪 Opened PR #3 in yeukfei02/video-edit
-🎉 Merged PR #1 in yeukfei02/video-edit
-💪 Opened PR #1 in yeukfei02/video-edit
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, January 17th 2021, 12:37:43 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, January 17th 2021, 12:19:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
