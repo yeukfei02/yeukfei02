@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #2303 in prisma/prisma
+🎉 Merged PR #6 in yeukfei02/video-edit
+💪 Opened PR #6 in yeukfei02/video-edit
 🗣 Commented on #110 in FidelLimited/serverless-plugin-optimize
 ❗️ Opened issue #110 in FidelLimited/serverless-plugin-optimize
 🎉 Merged PR #5 in yeukfei02/minecraft-clone
@@ -23,9 +26,6 @@
 🎉 Merged PR #4 in yeukfei02/minecraft-clone
 💪 Opened PR #4 in yeukfei02/minecraft-clone
 🎉 Merged PR #3 in yeukfei02/minecraft-clone
-💪 Opened PR #3 in yeukfei02/minecraft-clone
-🎉 Merged PR #22 in yeukfei02/random-joke-slack-serverless
-🎉 Merged PR #44 in yeukfei02/random-user-api-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, January 19th 2021, 12:40:42 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, January 19th 2021, 12:23:54 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
