@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-🗣 Commented on #8791 in serverless/serverless
-🎉 Merged PR #36 in yeukfei02/dogApi
-💪 Opened PR #36 in yeukfei02/dogApi
-🎉 Merged PR #28 in yeukfei02/WannaChat
-💪 Opened PR #28 in yeukfei02/WannaChat
-🎉 Merged PR #34 in yeukfei02/weatherApi
-💪 Opened PR #34 in yeukfei02/weatherApi
-🎉 Merged PR #27 in yeukfei02/WannaChat
-💪 Opened PR #27 in yeukfei02/WannaChat
-🎉 Merged PR #172 in yeukfei02/lunchPickerApi
+📦 Released "v0.3.3" in yeukfei02/deno-serverless
+📦 Released "v0.1.9" in yeukfei02/trello-clone-api
+📦 Released "v1.2.0" in yeukfei02/singapore-bus-arrival
+📦 Released "v1.8.0" in yeukfei02/hacker-news-node-ts-serverless
+📦 Released "v1.5.0" in yeukfei02/random-joke-slack-serverless
+📦 Released "v0.1.31" in yeukfei02/random-user-api-serverless
+🎉 Merged PR #19 in yeukfei02/deno-serverless
+🎉 Merged PR #18 in yeukfei02/trello-clone-api
+🎉 Merged PR #35 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #34 in yeukfei02/hacker-news-node-ts-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Friday, January 22nd 2021, 12:39:20 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, January 22nd 2021, 12:22:43 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
