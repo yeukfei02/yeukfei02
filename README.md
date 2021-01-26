@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v1.9.8" in yeukfei02/lunchPickerApi
-📦 Released "v0.1.5" in yeukfei02/node-firestore-graphql-playground
-📦 Released "v0.1.13" in yeukfei02/node-typescript-graphql-playground
-🎉 Merged PR #175 in yeukfei02/lunchPickerApi
-💪 Opened PR #175 in yeukfei02/lunchPickerApi
-🎉 Merged PR #174 in yeukfei02/lunchPickerApi
-💪 Opened PR #174 in yeukfei02/lunchPickerApi
-🎉 Merged PR #173 in yeukfei02/lunchPickerApi
-💪 Opened PR #173 in yeukfei02/lunchPickerApi
-🎉 Merged PR #13 in yeukfei02/node-firestore-graphql-playground
+📦 Released "v0.1.10" in yeukfei02/trello-clone-api
+📦 Released "v1.2.1" in yeukfei02/singapore-bus-arrival
+📦 Released "v1.8.1" in yeukfei02/hacker-news-node-ts-serverless
+📦 Released "v1.5.1" in yeukfei02/random-joke-slack-serverless
+📦 Released "v0.1.32" in yeukfei02/random-user-api-serverless
+🎉 Merged PR #19 in yeukfei02/trello-clone-api
+🎉 Merged PR #36 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #35 in yeukfei02/hacker-news-node-ts-serverless
+🎉 Merged PR #26 in yeukfei02/random-joke-slack-serverless
+🎉 Merged PR #49 in yeukfei02/random-user-api-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, January 26th 2021, 12:13:21 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, January 26th 2021, 12:05:32 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
