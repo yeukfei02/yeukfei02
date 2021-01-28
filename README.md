@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v0.1.10" in yeukfei02/trello-clone-api
-📦 Released "v1.2.1" in yeukfei02/singapore-bus-arrival
-📦 Released "v1.8.1" in yeukfei02/hacker-news-node-ts-serverless
-📦 Released "v1.5.1" in yeukfei02/random-joke-slack-serverless
-📦 Released "v0.1.32" in yeukfei02/random-user-api-serverless
-🎉 Merged PR #19 in yeukfei02/trello-clone-api
-🎉 Merged PR #36 in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #35 in yeukfei02/hacker-news-node-ts-serverless
-🎉 Merged PR #26 in yeukfei02/random-joke-slack-serverless
-🎉 Merged PR #49 in yeukfei02/random-user-api-serverless
+🎉 Merged PR #21 in yeukfei02/deno-serverless
+💪 Opened PR #21 in yeukfei02/deno-serverless
+🎉 Merged PR #21 in yeukfei02/trello-clone-api
+💪 Opened PR #21 in yeukfei02/trello-clone-api
+🎉 Merged PR #38 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #38 in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #37 in yeukfei02/hacker-news-node-ts-serverless
+💪 Opened PR #37 in yeukfei02/hacker-news-node-ts-serverless
+💪 Opened PR #28 in yeukfei02/random-joke-slack-serverless
+🎉 Merged PR #51 in yeukfei02/random-user-api-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, January 27th 2021, 12:06:31 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, January 28th 2021, 12:13:15 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
