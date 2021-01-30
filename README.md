@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #25 in yeukfei02/deno-serverless
-💪 Opened PR #25 in yeukfei02/deno-serverless
-🎉 Merged PR #24 in yeukfei02/deno-serverless
-💪 Opened PR #24 in yeukfei02/deno-serverless
-🎉 Merged PR #23 in yeukfei02/deno-serverless
-💪 Opened PR #23 in yeukfei02/deno-serverless
-🎉 Merged PR #22 in yeukfei02/deno-serverless
-💪 Opened PR #22 in yeukfei02/deno-serverless
-🎉 Merged PR #22 in yeukfei02/trello-clone-api
-💪 Opened PR #22 in yeukfei02/trello-clone-api
+📦 Released "v0.1.2" in yeukfei02/python-serverless
+🎉 Merged PR #14 in yeukfei02/python-serverless
+💪 Opened PR #14 in yeukfei02/python-serverless
+🎉 Merged PR #13 in yeukfei02/python-serverless
+💪 Opened PR #13 in yeukfei02/python-serverless
+🎉 Merged PR #12 in yeukfei02/python-serverless
+💪 Opened PR #12 in yeukfei02/python-serverless
+🎉 Merged PR #11 in yeukfei02/python-serverless
+💪 Opened PR #11 in yeukfei02/python-serverless
+🎉 Merged PR #10 in yeukfei02/python-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, January 30th 2021, 12:11:51 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, January 30th 2021, 12:05:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
