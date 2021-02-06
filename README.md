@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #202 in yeukfei02/lunchPicker
+🎉 Merged PR #203 in yeukfei02/lunchPicker
+💪 Opened PR #203 in yeukfei02/lunchPicker
+🎉 Merged PR #7 in yeukfei02/video-edit
+💪 Opened PR #7 in yeukfei02/video-edit
 ❗️ Opened issue #1114 in dynamoose/dynamoose
 ❗️ Opened issue #3621 in aws/aws-sdk-js
 🗣 Commented on #3591 in aws/aws-sdk-js
 ❗️ Closed issue #46 in serverless/github-action
 🎉 Merged PR #7 in yeukfei02/aws-amplify-react
-💪 Opened PR #7 in yeukfei02/aws-amplify-react
-📦 Released "v0.1.3" in yeukfei02/aws-amplify-react
-🎉 Merged PR #6 in yeukfei02/aws-amplify-react
-💪 Opened PR #6 in yeukfei02/aws-amplify-react
-📦 Released "v0.1.2" in yeukfei02/aws-amplify-react
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, February 6th 2021, 12:08:33 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, February 6th 2021, 12:04:55 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
