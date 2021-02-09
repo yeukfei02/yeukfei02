@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #614 in middyjs/middy
 🎉 Merged PR #202 in yeukfei02/lunchPicker
 🎉 Merged PR #203 in yeukfei02/lunchPicker
 💪 Opened PR #203 in yeukfei02/lunchPicker
@@ -25,7 +26,6 @@
 ❗️ Opened issue #3621 in aws/aws-sdk-js
 🗣 Commented on #3591 in aws/aws-sdk-js
 ❗️ Closed issue #46 in serverless/github-action
-🎉 Merged PR #7 in yeukfei02/aws-amplify-react
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, February 8th 2021, 12:07:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, February 9th 2021, 12:08:44 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
