@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #1123 in dynamoose/dynamoose
 ❗️ Opened issue #1123 in dynamoose/dynamoose
 🗣 Commented on #1114 in dynamoose/dynamoose
 🗣 Commented on #1114 in dynamoose/dynamoose
@@ -25,7 +26,6 @@
 💪 Opened PR #203 in yeukfei02/lunchPicker
 🎉 Merged PR #7 in yeukfei02/video-edit
 💪 Opened PR #7 in yeukfei02/video-edit
-❗️ Opened issue #1114 in dynamoose/dynamoose
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, February 10th 2021, 12:11:42 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, February 11th 2021, 12:13:02 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
