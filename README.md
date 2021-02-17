@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.1.2" in yeukfei02/tropicalCycloneApi
+🎉 Merged PR #20 in yeukfei02/tropicalCycloneApi
+💪 Opened PR #20 in yeukfei02/tropicalCycloneApi
 🗣 Commented on #86 in floydspace/serverless-esbuild
 🗣 Commented on #79 in floydspace/serverless-esbuild
 🗣 Commented on #86 in floydspace/serverless-esbuild
@@ -23,9 +26,6 @@
 🎉 Merged PR #171 in yeukfei02/lunchPickerApi
 ❗️ Opened issue #86 in floydspace/serverless-esbuild
 📦 Released "v0.2.2" in yeukfei02/singapore-bus-arrival-app
-📦 Released "v1.6.3" in yeukfei02/lunchPickerReactNative
-📦 Released "v1.7.8" in yeukfei02/lunchPicker
-🗣 Commented on #1123 in dynamoose/dynamoose
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, February 17th 2021, 12:08:54 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, February 17th 2021, 12:04:42 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
