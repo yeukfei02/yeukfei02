@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-🗣 Commented on #1716 in pyenv/pyenv
-❗️ Closed issue #86 in floydspace/serverless-esbuild
-🗣 Commented on #86 in floydspace/serverless-esbuild
-🗣 Commented on #86 in floydspace/serverless-esbuild
-🗣 Commented on #86 in floydspace/serverless-esbuild
-🗣 Commented on #86 in floydspace/serverless-esbuild
-📦 Released "v0.1.4" in yeukfei02/aws-amplify-react
-🎉 Merged PR #8 in yeukfei02/aws-amplify-react
-💪 Opened PR #8 in yeukfei02/aws-amplify-react
-🎉 Merged PR #8 in yeukfei02/video-edit
+📦 Released "v1.0.1" in yeukfei02/singapore-taxi-api
+🎉 Merged PR #8 in yeukfei02/singapore-taxi-api
+💪 Opened PR #8 in yeukfei02/singapore-taxi-api
+📦 Released "v1.0.0" in yeukfei02/singapore-taxi-api
+🎉 Merged PR #7 in yeukfei02/singapore-taxi-api
+💪 Opened PR #7 in yeukfei02/singapore-taxi-api
+🎉 Merged PR #6 in yeukfei02/singapore-taxi-api
+💪 Opened PR #6 in yeukfei02/singapore-taxi-api
+🎉 Merged PR #5 in yeukfei02/singapore-taxi-api
+💪 Opened PR #5 in yeukfei02/singapore-taxi-api
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, March 1st 2021, 12:09:48 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, March 1st 2021, 12:05:04 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
