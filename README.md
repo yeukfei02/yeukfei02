@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v1.1.5" in yeukfei02/singapore-taxi-api
-🎉 Merged PR #11 in yeukfei02/singapore-taxi-api
-💪 Opened PR #11 in yeukfei02/singapore-taxi-api
-📦 Released "v1.1.3" in yeukfei02/tropicalCycloneApi
-🎉 Merged PR #21 in yeukfei02/tropicalCycloneApi
-💪 Opened PR #21 in yeukfei02/tropicalCycloneApi
-📦 Released "v0.1.3" in yeukfei02/python-serverless
-🎉 Merged PR #15 in yeukfei02/python-serverless
-💪 Opened PR #15 in yeukfei02/python-serverless
-📦 Released "v1.0.3" in yeukfei02/singapore-taxi-api
+📦 Released "v1.1.7" in yeukfei02/singapore-taxi-api
+🎉 Merged PR #20 in yeukfei02/singapore-taxi-api
+💪 Opened PR #20 in yeukfei02/singapore-taxi-api
+📦 Released "v1.1.6" in yeukfei02/singapore-taxi-api
+🎉 Merged PR #19 in yeukfei02/singapore-taxi-api
+💪 Opened PR #19 in yeukfei02/singapore-taxi-api
+🎉 Merged PR #18 in yeukfei02/singapore-taxi-api
+💪 Opened PR #18 in yeukfei02/singapore-taxi-api
+🎉 Merged PR #17 in yeukfei02/singapore-taxi-api
+💪 Opened PR #17 in yeukfei02/singapore-taxi-api
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, March 4th 2021, 12:09:09 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, March 4th 2021, 12:04:59 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
