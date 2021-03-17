@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.3.0" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #40 in yeukfei02/singapore-bus-arrival
+💪 Opened PR #40 in yeukfei02/singapore-bus-arrival
+📦 Released "v1.1.7" in yeukfei02/tropicalCycloneApi
+🎉 Merged PR #26 in yeukfei02/tropicalCycloneApi
+💪 Opened PR #26 in yeukfei02/tropicalCycloneApi
 📦 Released "v1.6.5" in yeukfei02/lunchPickerReactNative
 ❗️ Closed issue #108 in yeukfei02/lunchPickerReactNative
 🗣 Commented on #108 in yeukfei02/lunchPickerReactNative
 🎉 Merged PR #109 in yeukfei02/lunchPickerReactNative
-💪 Opened PR #109 in yeukfei02/lunchPickerReactNative
-❗️ Opened issue #108 in yeukfei02/lunchPickerReactNative
-📦 Released "v1.8.1" in yeukfei02/lunchPicker
-📦 Released "v2.0.2" in yeukfei02/lunchPickerApi
-❗️ Closed issue #206 in yeukfei02/lunchPicker
-🗣 Commented on #206 in yeukfei02/lunchPicker
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, March 16th 2021, 12:05:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, March 17th 2021, 12:09:25 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
