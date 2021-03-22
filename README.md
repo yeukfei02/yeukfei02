@@ -9,23 +9,23 @@
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 56 | [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice) | Awesome AWS Chalice |
+| 📦 | 58 | [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice) | Awesome AWS Chalice |
 | 📦 | 7 | [yeukfei02/lunchPickerReactNative](https://github.com/yeukfei02/lunchPickerReactNative) | Lunch picker is the tool to help you to answer where should I have lunch |
 | 📦 | 5 | [yeukfei02/lunchPicker](https://github.com/yeukfei02/lunchPicker) | Lunch picker is the tool to help you to answer where should I have lunch |
 
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #5 in yeukfei02/donaldwu-resume
-💪 Opened PR #5 in yeukfei02/donaldwu-resume
-📦 Released "v1.3.0" in yeukfei02/singapore-bus-arrival
-🎉 Merged PR #40 in yeukfei02/singapore-bus-arrival
-💪 Opened PR #40 in yeukfei02/singapore-bus-arrival
-📦 Released "v1.1.7" in yeukfei02/tropicalCycloneApi
-🎉 Merged PR #26 in yeukfei02/tropicalCycloneApi
-💪 Opened PR #26 in yeukfei02/tropicalCycloneApi
-📦 Released "v1.6.5" in yeukfei02/lunchPickerReactNative
-❗️ Closed issue #108 in yeukfei02/lunchPickerReactNative
+📦 Released "v0.1.6" in yeukfei02/node-firestore-graphql-playground
+📦 Released "v0.1.14" in yeukfei02/node-typescript-graphql-playground
+🎉 Merged PR #14 in yeukfei02/node-firestore-graphql-playground
+🎉 Merged PR #25 in yeukfei02/node-typescript-graphql-playground
+💪 Opened PR #14 in yeukfei02/node-firestore-graphql-playground
+💪 Opened PR #25 in yeukfei02/node-typescript-graphql-playground
+📦 Released "v0.1.2" in yeukfei02/search-recipe-api
+🎉 Merged PR #5 in yeukfei02/search-recipe-api
+💪 Opened PR #5 in yeukfei02/search-recipe-api
+🎉 Merged PR #4 in yeukfei02/search-recipe-api
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, March 21st 2021, 12:14:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, March 22nd 2021, 12:09:33 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
