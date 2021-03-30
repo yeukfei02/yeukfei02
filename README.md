@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #35 in yeukfei02/tropicalCycloneApi
+🎉 Merged PR #1 in yeukfei02/pizza-order-api
+💪 Opened PR #1 in yeukfei02/pizza-order-api
 📦 Released "v0.2.9" in yeukfei02/todolistUi
 ❗️ Closed issue #22 in yeukfei02/todolistUi
 🗣 Commented on #22 in yeukfei02/todolistUi
@@ -23,9 +26,6 @@
 💪 Opened PR #23 in yeukfei02/todolistUi
 ❗️ Opened issue #22 in yeukfei02/todolistUi
 📦 Released "v1.1.3" in yeukfei02/evercareBackendTest
-❗️ Closed issue #12 in yeukfei02/evercareBackendTest
-🗣 Commented on #12 in yeukfei02/evercareBackendTest
-🎉 Merged PR #13 in yeukfei02/evercareBackendTest
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, March 30th 2021, 12:03:56 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, March 30th 2021, 12:01:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
