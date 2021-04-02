@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #38 in yeukfei02/weather-hk-bot
+🎉 Merged PR #40 in yeukfei02/weather-hk-bot
 🎉 Merged PR #182 in yeukfei02/lunchPickerApi
 📦 Released "v0.1.0" in yeukfei02/pizza-order-api
 🎉 Merged PR #3 in yeukfei02/pizza-order-api
@@ -24,8 +26,6 @@
 🗣 Commented on #35 in yeukfei02/tropicalCycloneApi
 🎉 Merged PR #36 in yeukfei02/tropicalCycloneApi
 💪 Opened PR #36 in yeukfei02/tropicalCycloneApi
-❗️ Opened issue #35 in yeukfei02/tropicalCycloneApi
-🎉 Merged PR #1 in yeukfei02/pizza-order-api
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, April 1st 2021, 12:01:36 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, April 2nd 2021, 12:10:24 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
