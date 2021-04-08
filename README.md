@@ -16,15 +16,15 @@
 ### 🗣 My activity:
 
 ```
-🗣 Commented on #9242 in serverless/serverless
-🗣 Commented on #9242 in serverless/serverless
-🗣 Commented on #9242 in serverless/serverless
-🗣 Commented on #9242 in serverless/serverless
-❗️ Opened issue #1206 in dherault/serverless-offline
-🗣 Commented on #9240 in serverless/serverless
-🗣 Commented on #9242 in serverless/serverless
-🗣 Commented on #9240 in serverless/serverless
-🗣 Commented on #9240 in serverless/serverless
+📦 Released "v0.2.1" in yeukfei02/random-user-api-serverless
+📦 Released "v1.7.0" in yeukfei02/random-joke-slack-serverless
+🎉 Merged PR #38 in yeukfei02/random-joke-slack-serverless
+🎉 Merged PR #68 in yeukfei02/random-user-api-serverless
+💪 Opened PR #38 in yeukfei02/random-joke-slack-serverless
+💪 Opened PR #68 in yeukfei02/random-user-api-serverless
+📦 Released "v0.1.7" in yeukfei02/ecommerce-api
+🎉 Merged PR #17 in yeukfei02/ecommerce-api
+💪 Opened PR #17 in yeukfei02/ecommerce-api
 🗣 Commented on #9242 in serverless/serverless
 ```
 
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, April 7th 2021, 12:01:42 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, April 8th 2021, 12:05:47 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
