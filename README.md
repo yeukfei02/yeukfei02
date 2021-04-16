@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.3.5" in yeukfei02/yeukfei02.github.io
+🎉 Merged PR #29 in yeukfei02/yeukfei02.github.io
+💪 Opened PR #29 in yeukfei02/yeukfei02.github.io
+📦 Released "v1.3.4" in yeukfei02/yeukfei02.github.io
+🎉 Merged PR #28 in yeukfei02/yeukfei02.github.io
+💪 Opened PR #28 in yeukfei02/yeukfei02.github.io
+📦 Released "v0.2.2" in yeukfei02/random-user-api-serverless
+🎉 Merged PR #69 in yeukfei02/random-user-api-serverless
+💪 Opened PR #69 in yeukfei02/random-user-api-serverless
 📦 Released "v0.1.4" in yeukfei02/ruby-serverless
-🎉 Merged PR #18 in yeukfei02/ruby-serverless
-💪 Opened PR #18 in yeukfei02/ruby-serverless
-📦 Released "v0.1.3" in yeukfei02/ruby-serverless
-🎉 Merged PR #17 in yeukfei02/ruby-serverless
-💪 Opened PR #17 in yeukfei02/ruby-serverless
-📦 Released "v0.1.2" in yeukfei02/ruby-serverless
-🎉 Merged PR #16 in yeukfei02/ruby-serverless
-💪 Opened PR #16 in yeukfei02/ruby-serverless
-❗️ Closed issue #14 in yeukfei02/ruby-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Friday, April 16th 2021, 12:03:41 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, April 16th 2021, 12:01:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
