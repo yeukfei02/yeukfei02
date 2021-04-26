@@ -9,7 +9,7 @@
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 106 | [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice) | ☁️ Awesome Chalice: Community list of resources about AWS Chalice, a Python framework for writing serverless applications. |
+| 📦 | 107 | [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice) | ☁️ Awesome Chalice: Community list of resources about AWS Chalice, a Python framework for writing serverless applications. |
 | 📦 | 7 | [yeukfei02/lunchPickerReactNative](https://github.com/yeukfei02/lunchPickerReactNative) | Lunch picker is the tool to help you to answer where should I have lunch |
 | 📦 | 5 | [yeukfei02/lunchPicker](https://github.com/yeukfei02/lunchPicker) | Lunch picker is the tool to help you to answer where should I have lunch |
 
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Monday, April 26th 2021, 12:04:17 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, April 26th 2021, 12:01:42 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
