@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.2" in yeukfei02/ethereum-playground
+🎉 Merged PR #3 in yeukfei02/ethereum-playground
+💪 Opened PR #3 in yeukfei02/ethereum-playground
 📦 Released "v0.1.1" in yeukfei02/ethereum-playground
 🎉 Merged PR #1 in yeukfei02/ethereum-playground
 💪 Opened PR #1 in yeukfei02/ethereum-playground
@@ -23,9 +26,6 @@
 📦 Released "v0.1.3" in yeukfei02/ecommerce-api-adonisjs
 🎉 Merged PR #21 in yeukfei02/ecommerce-api
 🎉 Merged PR #6 in yeukfei02/ecommerce-api-adonisjs
-💪 Opened PR #6 in yeukfei02/ecommerce-api-adonisjs
-💪 Opened PR #21 in yeukfei02/ecommerce-api
-📦 Released "v0.1.5" in yeukfei02/ruby-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, April 28th 2021, 12:01:40 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, April 29th 2021, 12:04:16 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
