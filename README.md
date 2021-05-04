@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.2.5" in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #35 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #35 in yeukfei02/singapore-bus-arrival-app
+❗️ Opened issue #25 in yeukfei02/singapore-taxi-api
 📦 Released "v0.1.2" in yeukfei02/ethereum-playground
 🎉 Merged PR #3 in yeukfei02/ethereum-playground
 💪 Opened PR #3 in yeukfei02/ethereum-playground
 📦 Released "v0.1.1" in yeukfei02/ethereum-playground
 🎉 Merged PR #1 in yeukfei02/ethereum-playground
 💪 Opened PR #1 in yeukfei02/ethereum-playground
-📦 Released "v0.1.11" in yeukfei02/ecommerce-api
-📦 Released "v0.1.3" in yeukfei02/ecommerce-api-adonisjs
-🎉 Merged PR #21 in yeukfei02/ecommerce-api
-🎉 Merged PR #6 in yeukfei02/ecommerce-api-adonisjs
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, May 4th 2021, 12:17:20 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, May 4th 2021, 12:05:52 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
