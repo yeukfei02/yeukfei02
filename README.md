@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v0.2.5" in yeukfei02/singapore-bus-arrival-app
-🎉 Merged PR #35 in yeukfei02/singapore-bus-arrival-app
-💪 Opened PR #35 in yeukfei02/singapore-bus-arrival-app
-❗️ Opened issue #25 in yeukfei02/singapore-taxi-api
-📦 Released "v0.1.2" in yeukfei02/ethereum-playground
-🎉 Merged PR #3 in yeukfei02/ethereum-playground
-💪 Opened PR #3 in yeukfei02/ethereum-playground
-📦 Released "v0.1.1" in yeukfei02/ethereum-playground
-🎉 Merged PR #1 in yeukfei02/ethereum-playground
-💪 Opened PR #1 in yeukfei02/ethereum-playground
+📦 Released "v1.2.3" in yeukfei02/singapore-taxi-api
+🎉 Merged PR #29 in yeukfei02/singapore-taxi-api
+💪 Opened PR #29 in yeukfei02/singapore-taxi-api
+📦 Released "v1.2.2" in yeukfei02/singapore-taxi-api
+🎉 Merged PR #28 in yeukfei02/singapore-taxi-api
+💪 Opened PR #28 in yeukfei02/singapore-taxi-api
+📦 Released "v1.2.1" in yeukfei02/singapore-taxi-api
+🎉 Merged PR #27 in yeukfei02/singapore-taxi-api
+💪 Opened PR #27 in yeukfei02/singapore-taxi-api
+📦 Released "v1.2.0" in yeukfei02/singapore-taxi-api
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, May 5th 2021, 12:05:22 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, May 6th 2021, 12:10:59 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
