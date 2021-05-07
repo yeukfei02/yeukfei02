@@ -16,6 +16,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #32 in yeukfei02/yeukfei02.github.io
+🎉 Merged PR #31 in yeukfei02/yeukfei02.github.io
 📦 Released "v1.2.3" in yeukfei02/singapore-taxi-api
 🎉 Merged PR #29 in yeukfei02/singapore-taxi-api
 💪 Opened PR #29 in yeukfei02/singapore-taxi-api
@@ -24,8 +26,6 @@
 💪 Opened PR #28 in yeukfei02/singapore-taxi-api
 📦 Released "v1.2.1" in yeukfei02/singapore-taxi-api
 🎉 Merged PR #27 in yeukfei02/singapore-taxi-api
-💪 Opened PR #27 in yeukfei02/singapore-taxi-api
-📦 Released "v1.2.0" in yeukfei02/singapore-taxi-api
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Friday, May 7th 2021, 12:11:10 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, May 7th 2021, 12:05:18 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
