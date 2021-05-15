@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.8" in yeukfei02/ruby-serverless
+🎉 Merged PR #22 in yeukfei02/ruby-serverless
+💪 Opened PR #22 in yeukfei02/ruby-serverless
+🎉 Merged PR #21 in yeukfei02/ruby-serverless
+💪 Opened PR #21 in yeukfei02/ruby-serverless
+🎉 Merged PR #20 in yeukfei02/ruby-serverless
+💪 Opened PR #20 in yeukfei02/ruby-serverless
 📦 Released "v1.1.0" in yeukfei02/hongkong-bus-arrival-api
 🎉 Merged PR #1 in yeukfei02/hongkong-bus-arrival-api
 💪 Opened PR #1 in yeukfei02/hongkong-bus-arrival-api
-🎉 Merged PR #213 in yeukfei02/lunchPicker
-🎉 Merged PR #34 in yeukfei02/yeukfei02.github.io
-🎉 Merged PR #187 in yeukfei02/lunchPickerApi
-🎉 Merged PR #44 in yeukfei02/weather-hk-bot
-🎉 Merged PR #45 in yeukfei02/weather-hk-bot
-🎉 Merged PR #17 in yeukfei02/drawCanvas
-🎉 Merged PR #18 in yeukfei02/drawCanvas
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 15th 2021, 12:22:06 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, May 15th 2021, 12:08:27 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
