@@ -16,16 +16,16 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v0.1.8" in yeukfei02/ruby-serverless
-🎉 Merged PR #22 in yeukfei02/ruby-serverless
-💪 Opened PR #22 in yeukfei02/ruby-serverless
-🎉 Merged PR #21 in yeukfei02/ruby-serverless
-💪 Opened PR #21 in yeukfei02/ruby-serverless
-🎉 Merged PR #20 in yeukfei02/ruby-serverless
-💪 Opened PR #20 in yeukfei02/ruby-serverless
-📦 Released "v1.1.0" in yeukfei02/hongkong-bus-arrival-api
-🎉 Merged PR #1 in yeukfei02/hongkong-bus-arrival-api
-💪 Opened PR #1 in yeukfei02/hongkong-bus-arrival-api
+📦 Released "v0.1.12" in yeukfei02/ecommerce-api
+🎉 Merged PR #22 in yeukfei02/ecommerce-api
+💪 Opened PR #22 in yeukfei02/ecommerce-api
+📦 Released "v0.3.8" in yeukfei02/notion-sdk-deno
+🎉 Merged PR #5 in yeukfei02/notion-sdk-deno
+💪 Opened PR #5 in yeukfei02/notion-sdk-deno
+🎉 Merged PR #4 in yeukfei02/notion-sdk-deno
+💪 Opened PR #4 in yeukfei02/notion-sdk-deno
+🎉 Merged PR #3 in yeukfei02/notion-sdk-deno
+💪 Opened PR #3 in yeukfei02/notion-sdk-deno
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Friday, May 21st 2021, 12:09:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, May 22nd 2021, 12:23:17 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
