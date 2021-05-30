@@ -16,6 +16,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #197 in yeukfei02/lunchPickerApi
 📦 Released "v0.2.3" in yeukfei02/random-user-api-serverless
 🎉 Merged PR #79 in yeukfei02/random-user-api-serverless
 💪 Opened PR #79 in yeukfei02/random-user-api-serverless
@@ -25,7 +26,6 @@
 💪 Opened PR #77 in yeukfei02/random-user-api-serverless
 🎉 Merged PR #76 in yeukfei02/random-user-api-serverless
 💪 Opened PR #76 in yeukfei02/random-user-api-serverless
-🎉 Merged PR #75 in yeukfei02/random-user-api-serverless
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeukfei02&show_icons=true&count_private=true&theme=radical" />
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, May 30th 2021, 12:50:56 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, May 30th 2021, 12:30:11 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
