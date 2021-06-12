@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.5" in yeukfei02/ecommerce-api-directus
+🎉 Merged PR #7 in yeukfei02/ecommerce-api-directus
+💪 Opened PR #7 in yeukfei02/ecommerce-api-directus
+📦 Released "v0.1.15" in yeukfei02/ecommerce-api
+🎉 Merged PR #25 in yeukfei02/ecommerce-api
+💪 Opened PR #25 in yeukfei02/ecommerce-api
+📦 Released "v0.1.14" in yeukfei02/ecommerce-api
+🎉 Merged PR #24 in yeukfei02/ecommerce-api
+💪 Opened PR #24 in yeukfei02/ecommerce-api
 📦 Released "v0.1.4" in yeukfei02/ecommerce-api-directus
-🎉 Merged PR #6 in yeukfei02/ecommerce-api-directus
-💪 Opened PR #6 in yeukfei02/ecommerce-api-directus
-📦 Released "v0.1.3" in yeukfei02/ecommerce-api-directus
-🎉 Merged PR #5 in yeukfei02/ecommerce-api-directus
-💪 Opened PR #5 in yeukfei02/ecommerce-api-directus
-🎉 Merged PR #4 in yeukfei02/ecommerce-api-directus
-💪 Opened PR #4 in yeukfei02/ecommerce-api-directus
-📦 Released "v0.1.2" in yeukfei02/ecommerce-api-directus
-🎉 Merged PR #3 in yeukfei02/ecommerce-api-directus
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, June 12th 2021, 12:32:56 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, June 12th 2021, 12:16:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
