@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.4" in yeukfei02/ecommerce-api-directus
+🎉 Merged PR #6 in yeukfei02/ecommerce-api-directus
+💪 Opened PR #6 in yeukfei02/ecommerce-api-directus
 📦 Released "v0.1.3" in yeukfei02/ecommerce-api-directus
 🎉 Merged PR #5 in yeukfei02/ecommerce-api-directus
 💪 Opened PR #5 in yeukfei02/ecommerce-api-directus
@@ -23,11 +26,8 @@
 💪 Opened PR #4 in yeukfei02/ecommerce-api-directus
 📦 Released "v0.1.2" in yeukfei02/ecommerce-api-directus
 🎉 Merged PR #3 in yeukfei02/ecommerce-api-directus
-💪 Opened PR #3 in yeukfei02/ecommerce-api-directus
-📦 Released "v0.1.1" in yeukfei02/ecommerce-api-directus
-🎉 Merged PR #1 in yeukfei02/ecommerce-api-directus
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, June 11th 2021, 12:16:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, June 12th 2021, 12:32:56 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
