@@ -16,6 +16,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.8.4" in yeukfei02/lunchPicker
+🎉 Merged PR #217 in yeukfei02/lunchPicker
+💪 Opened PR #217 in yeukfei02/lunchPicker
 📦 Released "v0.1.5" in yeukfei02/ecommerce-api-directus
 🎉 Merged PR #7 in yeukfei02/ecommerce-api-directus
 💪 Opened PR #7 in yeukfei02/ecommerce-api-directus
@@ -23,11 +26,8 @@
 🎉 Merged PR #25 in yeukfei02/ecommerce-api
 💪 Opened PR #25 in yeukfei02/ecommerce-api
 📦 Released "v0.1.14" in yeukfei02/ecommerce-api
-🎉 Merged PR #24 in yeukfei02/ecommerce-api
-💪 Opened PR #24 in yeukfei02/ecommerce-api
-📦 Released "v0.1.4" in yeukfei02/ecommerce-api-directus
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, June 13th 2021, 12:39:13 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, June 13th 2021, 12:16:36 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
