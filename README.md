@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.9.1" in yeukfei02/lunchPicker
+🎉 Merged PR #220 in yeukfei02/lunchPicker
+💪 Opened PR #220 in yeukfei02/lunchPicker
+📦 Released "v1.9.0" in yeukfei02/lunchPicker
+❗️ Closed issue #218 in yeukfei02/lunchPicker
+🗣 Commented on #218 in yeukfei02/lunchPicker
+🎉 Merged PR #219 in yeukfei02/lunchPicker
+💪 Opened PR #219 in yeukfei02/lunchPicker
+❗️ Opened issue #218 in yeukfei02/lunchPicker
 📦 Released "v1.8.4" in yeukfei02/lunchPicker
-🎉 Merged PR #217 in yeukfei02/lunchPicker
-💪 Opened PR #217 in yeukfei02/lunchPicker
-📦 Released "v0.1.5" in yeukfei02/ecommerce-api-directus
-🎉 Merged PR #7 in yeukfei02/ecommerce-api-directus
-💪 Opened PR #7 in yeukfei02/ecommerce-api-directus
-📦 Released "v0.1.15" in yeukfei02/ecommerce-api
-🎉 Merged PR #25 in yeukfei02/ecommerce-api
-💪 Opened PR #25 in yeukfei02/ecommerce-api
-📦 Released "v0.1.14" in yeukfei02/ecommerce-api
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, June 20th 2021, 12:38:57 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, June 20th 2021, 12:16:18 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
