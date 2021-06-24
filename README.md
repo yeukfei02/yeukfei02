@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #4 in yeukfei02/singapore-hawker-centre-api
+💪 Opened PR #4 in yeukfei02/singapore-hawker-centre-api
+📦 Released "v0.1.1" in yeukfei02/singapore-hawker-centre-api
+🎉 Merged PR #3 in yeukfei02/singapore-hawker-centre-api
+💪 Opened PR #3 in yeukfei02/singapore-hawker-centre-api
 🎉 Merged PR #1 in yeukfei02/singapore-hawker-centre-api
 💪 Opened PR #1 in yeukfei02/singapore-hawker-centre-api
 📦 Released "v1.9.1" in yeukfei02/lunchPicker
 🎉 Merged PR #220 in yeukfei02/lunchPicker
 💪 Opened PR #220 in yeukfei02/lunchPicker
-📦 Released "v1.9.0" in yeukfei02/lunchPicker
-❗️ Closed issue #218 in yeukfei02/lunchPicker
-🗣 Commented on #218 in yeukfei02/lunchPicker
-🎉 Merged PR #219 in yeukfei02/lunchPicker
-💪 Opened PR #219 in yeukfei02/lunchPicker
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, June 24th 2021, 12:29:15 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, June 24th 2021, 12:18:25 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
