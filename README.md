@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #27 in yeukfei02/ecommerce-api
+💪 Opened PR #27 in yeukfei02/ecommerce-api
+🎉 Merged PR #203 in yeukfei02/lunchPickerApi
+💪 Opened PR #203 in yeukfei02/lunchPickerApi
+🎉 Merged PR #202 in yeukfei02/lunchPickerApi
+💪 Opened PR #202 in yeukfei02/lunchPickerApi
+📦 Released "v0.1.16" in yeukfei02/ecommerce-api
+🎉 Merged PR #26 in yeukfei02/ecommerce-api
+💪 Opened PR #26 in yeukfei02/ecommerce-api
 🎉 Merged PR #4 in yeukfei02/singapore-hawker-centre-api
-💪 Opened PR #4 in yeukfei02/singapore-hawker-centre-api
-📦 Released "v0.1.1" in yeukfei02/singapore-hawker-centre-api
-🎉 Merged PR #3 in yeukfei02/singapore-hawker-centre-api
-💪 Opened PR #3 in yeukfei02/singapore-hawker-centre-api
-🎉 Merged PR #1 in yeukfei02/singapore-hawker-centre-api
-💪 Opened PR #1 in yeukfei02/singapore-hawker-centre-api
-📦 Released "v1.9.1" in yeukfei02/lunchPicker
-🎉 Merged PR #220 in yeukfei02/lunchPicker
-💪 Opened PR #220 in yeukfei02/lunchPicker
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, June 26th 2021, 12:16:41 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, June 27th 2021, 12:43:41 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
