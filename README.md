@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #5 in yeukfei02/sweet-factory-backend-rails
+💪 Opened PR #5 in yeukfei02/sweet-factory-backend-rails
+📦 Released "v0.1.1" in yeukfei02/sweet-factory-backend-rails
+🎉 Merged PR #4 in yeukfei02/sweet-factory-backend-rails
+💪 Opened PR #4 in yeukfei02/sweet-factory-backend-rails
+🎉 Merged PR #3 in yeukfei02/sweet-factory-backend-rails
+💪 Opened PR #3 in yeukfei02/sweet-factory-backend-rails
+🎉 Merged PR #1 in yeukfei02/sweet-factory-backend-rails
+💪 Opened PR #1 in yeukfei02/sweet-factory-backend-rails
 📦 Released "v1.3.6" in yeukfei02/yeukfei02.github.io
-🎉 Merged PR #37 in yeukfei02/yeukfei02.github.io
-💪 Opened PR #37 in yeukfei02/yeukfei02.github.io
-🎉 Merged PR #6 in yeukfei02/singapore-hawker-centre-api
-💪 Opened PR #6 in yeukfei02/singapore-hawker-centre-api
-📦 Released "v0.1.2" in yeukfei02/singapore-hawker-centre-api
-🎉 Merged PR #5 in yeukfei02/singapore-hawker-centre-api
-💪 Opened PR #5 in yeukfei02/singapore-hawker-centre-api
-📦 Released "v0.1.17" in yeukfei02/ecommerce-api
-🎉 Merged PR #29 in yeukfei02/ecommerce-api
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, July 3rd 2021, 12:16:46 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, July 4th 2021, 12:38:23 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
