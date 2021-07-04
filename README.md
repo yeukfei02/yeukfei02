@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #5 in yeukfei02/sweet-factory-backend-rails
-💪 Opened PR #5 in yeukfei02/sweet-factory-backend-rails
-📦 Released "v0.1.1" in yeukfei02/sweet-factory-backend-rails
-🎉 Merged PR #4 in yeukfei02/sweet-factory-backend-rails
-💪 Opened PR #4 in yeukfei02/sweet-factory-backend-rails
-🎉 Merged PR #3 in yeukfei02/sweet-factory-backend-rails
-💪 Opened PR #3 in yeukfei02/sweet-factory-backend-rails
-🎉 Merged PR #1 in yeukfei02/sweet-factory-backend-rails
-💪 Opened PR #1 in yeukfei02/sweet-factory-backend-rails
-📦 Released "v1.3.6" in yeukfei02/yeukfei02.github.io
+📦 Released "v0.1.3" in yeukfei02/sweet-factory-backend-rails
+🎉 Merged PR #7 in yeukfei02/sweet-factory-backend-rails
+💪 Opened PR #7 in yeukfei02/sweet-factory-backend-rails
+📦 Released "v1.9.0" in yeukfei02/hacker-news-node-ts-serverless
+🎉 Merged PR #44 in yeukfei02/hacker-news-node-ts-serverless
+💪 Opened PR #44 in yeukfei02/hacker-news-node-ts-serverless
+📦 Released "v0.1.12" in yeukfei02/trello-clone-api
+🎉 Merged PR #28 in yeukfei02/trello-clone-api
+💪 Opened PR #28 in yeukfei02/trello-clone-api
+📦 Released "v1.3.2" in yeukfei02/singapore-bus-arrival
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, July 4th 2021, 12:38:23 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, July 4th 2021, 12:16:54 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
