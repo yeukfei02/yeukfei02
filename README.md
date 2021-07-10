@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #3 in yeukfei02/sweet-factory-frontend
-💪 Opened PR #3 in yeukfei02/sweet-factory-frontend
-🎉 Merged PR #1 in yeukfei02/sweet-factory-frontend
-💪 Opened PR #1 in yeukfei02/sweet-factory-frontend
-🗣 Commented on #48 in snowpackjs/astro-docs
-💪 Opened PR #616 in snowpackjs/astro
-🍴 Forked yeukfei02/astro from snowpackjs/astro
-❗️ Opened issue #48 in snowpackjs/astro-docs
-📦 Released "v0.1.2" in yeukfei02/sweet-factory-backend-serverless
-🎉 Merged PR #4 in yeukfei02/sweet-factory-backend-serverless
+🎉 Merged PR #9 in yeukfei02/sweet-factory-backend-rails
+💪 Opened PR #9 in yeukfei02/sweet-factory-backend-rails
+🎉 Merged PR #6 in yeukfei02/sweet-factory-frontend
+💪 Opened PR #6 in yeukfei02/sweet-factory-frontend
+🎉 Merged PR #5 in yeukfei02/sweet-factory-backend-serverless
+💪 Opened PR #5 in yeukfei02/sweet-factory-backend-serverless
+🎉 Merged PR #8 in yeukfei02/sweet-factory-backend-rails
+💪 Opened PR #8 in yeukfei02/sweet-factory-backend-rails
+📦 Released "v0.1.1" in yeukfei02/sweet-factory-frontend
+🎉 Merged PR #5 in yeukfei02/sweet-factory-frontend
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, July 10th 2021, 12:36:15 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, July 10th 2021, 12:16:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
