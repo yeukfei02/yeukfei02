@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #9 in yeukfei02/sweet-factory-backend-rails
-💪 Opened PR #9 in yeukfei02/sweet-factory-backend-rails
-🎉 Merged PR #6 in yeukfei02/sweet-factory-frontend
-💪 Opened PR #6 in yeukfei02/sweet-factory-frontend
-🎉 Merged PR #5 in yeukfei02/sweet-factory-backend-serverless
-💪 Opened PR #5 in yeukfei02/sweet-factory-backend-serverless
-🎉 Merged PR #8 in yeukfei02/sweet-factory-backend-rails
-💪 Opened PR #8 in yeukfei02/sweet-factory-backend-rails
-📦 Released "v0.1.1" in yeukfei02/sweet-factory-frontend
-🎉 Merged PR #5 in yeukfei02/sweet-factory-frontend
+📦 Released "v1.2.4" in yeukfei02/stolenBike
+🎉 Merged PR #27 in yeukfei02/stolenBike
+💪 Opened PR #27 in yeukfei02/stolenBike
+📦 Released "v1.2.3" in yeukfei02/stolenBike
+🎉 Merged PR #26 in yeukfei02/stolenBike
+💪 Opened PR #26 in yeukfei02/stolenBike
+🎉 Merged PR #112 in yeukfei02/lunchPickerReactNative
+💪 Opened PR #112 in yeukfei02/lunchPickerReactNative
+🎉 Merged PR #111 in yeukfei02/lunchPickerReactNative
+💪 Opened PR #111 in yeukfei02/lunchPickerReactNative
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, July 11th 2021, 12:42:12 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, July 11th 2021, 12:16:45 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
