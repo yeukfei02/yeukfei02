@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v1.2.4" in yeukfei02/stolenBike
-🎉 Merged PR #27 in yeukfei02/stolenBike
-💪 Opened PR #27 in yeukfei02/stolenBike
-📦 Released "v1.2.3" in yeukfei02/stolenBike
-🎉 Merged PR #26 in yeukfei02/stolenBike
-💪 Opened PR #26 in yeukfei02/stolenBike
-🎉 Merged PR #112 in yeukfei02/lunchPickerReactNative
-💪 Opened PR #112 in yeukfei02/lunchPickerReactNative
-🎉 Merged PR #111 in yeukfei02/lunchPickerReactNative
-💪 Opened PR #111 in yeukfei02/lunchPickerReactNative
+🎉 Merged PR #17 in yeukfei02/node-firestore-graphql-playground
+💪 Opened PR #17 in yeukfei02/node-firestore-graphql-playground
+📦 Released "v0.1.7" in yeukfei02/node-firestore-graphql-playground
+📦 Released "v0.1.15" in yeukfei02/node-typescript-graphql-playground
+🎉 Merged PR #16 in yeukfei02/node-firestore-graphql-playground
+🎉 Merged PR #27 in yeukfei02/node-typescript-graphql-playground
+💪 Opened PR #16 in yeukfei02/node-firestore-graphql-playground
+💪 Opened PR #27 in yeukfei02/node-typescript-graphql-playground
+📦 Released "v1.2.5" in yeukfei02/stolenBike
+📦 Released "v1.1.4" in yeukfei02/flowerShopUi
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, July 11th 2021, 12:16:45 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, July 12th 2021, 12:36:51 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
