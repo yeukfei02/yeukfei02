@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #6 in yeukfei02/automated-trading
+💪 Opened PR #6 in yeukfei02/automated-trading
+🎉 Merged PR #5 in yeukfei02/automated-trading
+💪 Opened PR #5 in yeukfei02/automated-trading
 📦 Released "v0.1.2" in yeukfei02/automated-trading
 🎉 Merged PR #4 in yeukfei02/automated-trading
 💪 Opened PR #4 in yeukfei02/automated-trading
 🎉 Merged PR #3 in yeukfei02/automated-trading
 💪 Opened PR #3 in yeukfei02/automated-trading
 📦 Released "v0.1.1" in yeukfei02/automated-trading
-🎉 Merged PR #2 in yeukfei02/automated-trading
-💪 Opened PR #2 in yeukfei02/automated-trading
-🎉 Merged PR #1 in yeukfei02/automated-trading
-💪 Opened PR #1 in yeukfei02/automated-trading
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, July 25th 2021, 12:39:40 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, July 25th 2021, 12:17:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
