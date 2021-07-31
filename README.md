@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
-📦 Released "v0.1.8" in yeukfei02/node-firestore-graphql-playground
-🎉 Merged PR #18 in yeukfei02/node-firestore-graphql-playground
-💪 Opened PR #18 in yeukfei02/node-firestore-graphql-playground
-📦 Released "v0.1.17" in yeukfei02/node-typescript-graphql-playground
-🎉 Merged PR #29 in yeukfei02/node-typescript-graphql-playground
-💪 Opened PR #29 in yeukfei02/node-typescript-graphql-playground
-📦 Released "v0.1.16" in yeukfei02/node-typescript-graphql-playground
-🎉 Merged PR #28 in yeukfei02/node-typescript-graphql-playground
-💪 Opened PR #28 in yeukfei02/node-typescript-graphql-playground
-📦 Released "v0.2.10" in yeukfei02/todolistUi
+🎉 Merged PR #27 in yeukfei02/python-serverless
+💪 Opened PR #27 in yeukfei02/python-serverless
+📦 Released "v1.7.1" in yeukfei02/random-joke-slack-serverless
+🎉 Merged PR #40 in yeukfei02/random-joke-slack-serverless
+💪 Opened PR #40 in yeukfei02/random-joke-slack-serverless
+🎉 Merged PR #39 in yeukfei02/random-joke-slack-serverless
+💪 Opened PR #39 in yeukfei02/random-joke-slack-serverless
+📦 Released "v0.2.4" in yeukfei02/random-user-api-serverless
+🎉 Merged PR #85 in yeukfei02/random-user-api-serverless
+💪 Opened PR #85 in yeukfei02/random-user-api-serverless
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, July 31st 2021, 12:39:35 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, July 31st 2021, 12:17:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
