@@ -16,18 +16,18 @@
 ### 🗣 My activity:
 
 ```
-🎉 Merged PR #27 in yeukfei02/python-serverless
-💪 Opened PR #27 in yeukfei02/python-serverless
-📦 Released "v1.7.1" in yeukfei02/random-joke-slack-serverless
-🎉 Merged PR #40 in yeukfei02/random-joke-slack-serverless
-💪 Opened PR #40 in yeukfei02/random-joke-slack-serverless
-🎉 Merged PR #39 in yeukfei02/random-joke-slack-serverless
-💪 Opened PR #39 in yeukfei02/random-joke-slack-serverless
-📦 Released "v0.2.4" in yeukfei02/random-user-api-serverless
-🎉 Merged PR #85 in yeukfei02/random-user-api-serverless
-💪 Opened PR #85 in yeukfei02/random-user-api-serverless
+📦 Released "v0.2.6" in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #37 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #37 in yeukfei02/singapore-bus-arrival-app
+🎉 Merged PR #36 in yeukfei02/singapore-bus-arrival-app
+💪 Opened PR #36 in yeukfei02/singapore-bus-arrival-app
+📦 Released "v0.1.9" in yeukfei02/singapore-bus-arrival-web
+🎉 Merged PR #14 in yeukfei02/singapore-bus-arrival-web
+💪 Opened PR #14 in yeukfei02/singapore-bus-arrival-web
+📦 Released "v1.3.3" in yeukfei02/singapore-bus-arrival
+🎉 Merged PR #50 in yeukfei02/singapore-bus-arrival
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, July 31st 2021, 12:17:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, August 1st 2021, 12:43:43 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
